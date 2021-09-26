@@ -3,8 +3,11 @@ import Cart from '../Cart/Cart';
 import Speaker from '../Speaker/Speaker';
 import './Main.css';
 
+
+// Code for Main section
 const Main = () => {
 
+    // Loading data
     const [speakers, setSpeakers] = useState([]);
     const [cart, setCart] = useState([]);
 
@@ -14,6 +17,8 @@ const Main = () => {
             .then(data => setSpeakers(data))
     }, [])
 
+
+    // Function for adding speakers to cart
     const handleAddToCart = (speaker) => {
 
         const oldSpeakers = cart.filter(oldSpeaker => oldSpeaker.id !== speaker.id)
@@ -24,6 +29,7 @@ const Main = () => {
 
     return (
         <div>
+            {/* HTML element for Main section including speaker section and cart section*/}
             <div className="container main">
                 <div className="speakers-container">
                     <div className="row row-cols-1 row-cols-md-3 g-4 mb-5">

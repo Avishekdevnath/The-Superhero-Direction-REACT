@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Code for Header section
 const Header = () => {
     return (
         <div className="container mb-4 py-4 ">
