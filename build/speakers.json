@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Tony_Robbins.jpg",
+    "name": "Tony Robbins",
+    "type": "Motivational Speaker",
+    "age": 61,
+    "country": "U.S.A",
+    "fee": 500000
+  },
+  {
+    "id": 2,
+    "image": "https://www.familysearch.org/blog/en/wp-content/uploads/sites/2/2020/11/nick-v-1.jpg",
+    "name": "Nick Vujicic",
+    "type": "Motivational Speaker",
+    "age": 38,
+    "country": "United States",
+    "fee": 100000
+  },
+  {
+    "id": 3,
+    "image": "https://pbs.twimg.com/profile_images/1422581394291793921/_sEBxCvD.jpg",
+    "name": "Chris Gardner",
+    "type": "Motivational Speaker",
+    "age": 67,
+    "country": "United States",
+    "fee": 100000
+  },
+  {
+    "id": 4,
+    "image": "https://images.squarespace-cdn.com/content/v1/55780026e4b0e3cc12ffe174/1494947323882-22ADBEXPSLSA6WUZT1OL/eckhart.jpg?format=1500w",
+    "name": "Eckhart Tolle",
+    "type": "Spiritual Teacher and Author",
+    "age": 73,
+    "country": "Canada",
+    "fee": 500000
+  },
+  {
+    "id": 5,
+    "image": "https://pbs.twimg.com/profile_images/472421066007015424/MHUJj15g_400x400.jpeg",
+    "name": "Robert Kiyosaki",
+    "type": "American Businessman",
+    "age": 74,
+    "country": "America",
+    "fee": 300000
+  },
+  {
+    "id": 6,
+    "image": "https://economictimes.indiatimes.com/thumb/msid-68296368,width-1200,height-900,resizemode-4,imgsize-551536/robinsharma.jpg",
+    "name": "Robin Sharma",
+    "type": "Inspirational Speaker",
+    "age": 57,
+    "country": "United States",
+    "fee": 100000
+  },
+  {
+    "id": 7,
+    "image": "https://pbs.twimg.com/profile_images/414511932063096832/9h-nqTVk.jpeg",
+    "name": "Les Brown",
+    "type": "Motivational Speaker",
+    "age": 76,
+    "country": "United States",
+    "fee": 200000
+  },
+  {
+    "id": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Suze_Orman_Time_100_Shankbone.jpg",
+    "name": "Suze Orman",
+    "type": "American Financial Advisor",
+    "age": 70,
+    "country": "United States",
+    "fee": 300000
+  },
+  {
+    "id": 9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amy_Purdy_-_PopTech_2012_-_Narrow.jpg/800px-Amy_Purdy_-_PopTech_2012_-_Narrow.jpg",
+    "name": "Amy Purdy",
+    "type": "Motivational Speaker",
+    "age": 41,
+    "country": "United States",
+    "fee": 100000
+  },
+  {
+    "id": 10,
+    "image": "https://yt3.ggpht.com/ytc/AKedOLTtRGlwW04Sr75-Cyx0SFYtcnFp-ROLtV5_NBOK7w=s900-c-k-c0x00ffffff-no-rj",
+    "name": "Eric Thomas",
+    "type": "Consultant",
+    "age": 51,
+    "country": "United States",
+    "fee": 100000
+  }
+]
