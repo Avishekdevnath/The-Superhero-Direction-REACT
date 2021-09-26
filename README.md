@@ -8,6 +8,7 @@ I've used 'react', 'html', 'js', 'css', 'bootstrap' in this project. React frame
 
 ## Live site link
 Here is the live site link of this project. We can see the output of the project with this link.
+https://a8-motivational-seminar-avishek.netlify.app/
 
 
 
